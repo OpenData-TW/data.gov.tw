@@ -1,3 +1,12 @@
+# Office temp
+~$*
+
+# Temps 
+Datasets/
+0.Temp/
+.idea/
+Data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
