@@ -1,0 +1,6 @@
+資料集識別碼,資料集名稱,提供機關,服務分類,資料集描述,主要欄位說明,更新頻率,授權方式,相關網址,上架日期,備註
+129176,現住原住民教育程度(102年後)-年 依 期間，年齡層， 男/女，平地/山地 與 項目,宜蘭縣政府,求學及進修,現住原住民教育程度(102年後)-年 依 期間，年齡層，男/女，平地/山地 與 項目,總計;識字者;博士畢業;博士肄業;研究所畢業;研究所肄業;大學畢業;大學肄業;二三年專科畢業;二三年專科肄業;五專畢業;五專後二年肄業;五專前三年肄業;高中畢業;高中肄業;高職畢業;高職肄業;國中;畢業;肄業;小學畢業;小學肄業;自修;不識字;未詳,每日,政府資料開放授權條款-第1版,,2020/08/11 10:40,無
+129195,不動產實價登錄資訊-買賣案件-石門區,新北市政府地政局,購屋及遷徙,1. 不動產賣賣案件實價登錄資訊，包含標的位置(去識別化)、面積、總價等資訊。 2. 本資料集為每10日更新一次。-石門區,district;rps01;rps02;rps03;rps04;rps05;rps06;rps07;rps08;rps09;rps10;rps11;rps12;rps13;rps14;rps15;rps16;rps17;rps18;rps19;rps20;rps21;rps22;rps23;rps24;rps25;rps26;rps27,每月,政府資料開放授權條款-第1版,,2020/04/24 00:00,依品質檢測結果更新主要欄位說明
+129177,臺南市政府新聞統計週報,新聞及國際關係處,公共資訊,排序、標題,排序;標題,每季,政府資料開放授權條款-第1版,https://data.tainan.gov.tw/dataset/weekly;https://data.tainan.gov.tw/dataset/weekly;https://data.tainan.gov.tw/dataset/weekly;https://data.tainan.gov.tw/dataset/weekly;https://data.tainan.gov.tw/dataset/weekly;https://data.tainan.gov.tw/dataset/weekly,2020/08/17 03:43,
+129194,臺北市立大學校園平面圖,臺北市政府教育局,公共資訊,臺北市立大學校園平面圖,Filename;HyperLink;,每年,政府資料開放授權條款-第1版,,2020/07/15 00:00,臺北市政府OAS標準之API說明文件：https://data.taipei/api/comments/doc
+129192,臺南市隧道明細,臺南市政府工務局,交通及通訊,臺南市隧道明細，定位資訊,項次;所屬道路編號;隧道名稱;單雙向;隧道長度;隧道寬度;車道數;座標X;座標Y ;座標Y,每年,政府資料開放授權條款-第1版,https://data.tainan.gov.tw/dataset/tunnel;https://data.tainan.gov.tw/dataset/tunnel,2020/08/18 01:25,
