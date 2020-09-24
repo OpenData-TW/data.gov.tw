@@ -1,5 +1,7 @@
 # Office temp
 ~$*
+*.xlsx
+*.xls
 
 # Temps 
 Datasets/
