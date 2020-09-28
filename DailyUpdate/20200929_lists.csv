@@ -1,0 +1,7 @@
+資料集識別碼,資料集名稱,提供機關,服務分類,資料集描述,主要欄位說明,更新頻率,授權方式,相關網址,上架日期,備註
+130416,列管山區道路,臺北市政府工務局大地工程處,公共資訊,已調查山坡地範圍內列管山區道路。,名稱;長度,每年,政府資料開放授權條款-第1版,,2012/01/04 00:00,臺北市政府OAS標準之API說明文件：https://data.taipei/api/comments/doc
+130417,列管登山步道,臺北市政府工務局大地工程處,公共資訊,目前臺北市親山步道系統列管有154條步道，總長約117公里，並因應步道長度、高低起伏及體適能條件等規劃完成步道路線。引領民眾便捷地親近山林，輕鬆享受自然多樣的生態野趣，同時懷想起含其中的歷史人文事蹟。,步道路線;起訖點;起終點座標;總長,每年,政府資料開放授權條款-第1版,,2012/01/04 00:00,臺北市政府OAS標準之API說明文件：https://data.taipei/api/comments/doc
+130413,臺北市共同管道圖資_電纜溝,臺北市政府工務局新建工程處,公共資訊,臺北市共同管道電纜溝圖資shape file格式壓縮檔案，zip檔案內容包含共同管道電纜溝SHP檔案格式，本項資料所採用座標系統為TWD97。,DUCT_ID;CAPTION;DUCT;SECTION;CLASS1;CLASS2;START_STA;END_STA;CENTER_STA;LENGTH;FEATID1;ID1,每日,政府資料開放授權條款-第1版,,2020/09/26 00:00,臺北市政府OAS標準之API說明文件：https://data.taipei/api/comments/doc
+130414,臺北市共同管道圖資_支管,臺北市政府工務局新建工程處,公共資訊,臺北市共同管道支管圖資shape file格式壓縮檔案，zip檔案內容包含共同管道支管SHP檔案格式，本項資料所採用座標系統為TWD97。,DUCT_ID;CAPTION;DUCT;SECTION;CLASS1;CLASS2;START_STA;END_STA;CENTER_STA;LENGTH;ID1,每日,政府資料開放授權條款-第1版,,2020/09/26 00:00,臺北市政府OAS標準之API說明文件：https://data.taipei/api/comments/doc
+130415,臺北市共同管道圖資_幹管,臺北市政府工務局新建工程處,公共資訊,臺北市共同管道幹管圖資shape file格式壓縮檔案，zip檔案內容包含共同管道幹管SHP檔案格式，本項資料所採用座標系統為TWD97。,DUCT_ID;CAPTION;DUCT;SECTION;CLASS1;CLASS2;START_STA;END_STA;CENTER_STA;LENGTH;ID1,每日,政府資料開放授權條款-第1版,,2020/09/26 00:00,臺北市政府OAS標準之API說明文件：https://data.taipei/api/comments/doc
+130412,台南農產品銷售區域及金額,臺南市政府農業局,公共資訊,台南農產品銷售區域及金額,序號;日期;活動名稱;攤位數;銷售金額 ;銷售金額,每半年,政府資料開放授權條款-第1版,https://data.tainan.gov.tw/dataset/sale;https://data.tainan.gov.tw/dataset/sale,2020/09/14 06:09,
